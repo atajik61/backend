@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "textDari": "صبر تلخ است ولیکن بر شیرین دارد",
+    "textPashto": "صبر تریخ دی، خو مېوه یې خوږه ده",
+    "translationEn": "Patience is bitter, but its fruit is sweet.",
+    "meaning": "تحمل مشکلات در ابتدا سخت است، اما نتیجه خوبی خواهد داشت",
+    "category": "صبر و تحمل "
+  },
+  {
+    "id": 1,
+    "textDari": "ز گهواره تا گور دانش بجوی",
+    "textPashto": "له زانګو څخه تر قبره پورې زده کړه وکړه",
+    "translationEn": "Seek knowledge from the cradle to the grave.",
+    "meaning": "آموزش و یادگیری هیچ‌گاه نباید متوقف شود",
+    "category": "علم و دانش"
+  },
+  {
+    "id": 2,
+    "textDari": "نابرده رنج گنج میسر نمی‌شود",
+    "textPashto": "بې له زحمت خزانه نه ترلاسه کېږي",
+    "translationEn": "No pain, no gain.",
+    "meaning": "بدون تلاش نمی‌توان به موفقیت رسید",
+    "category": "تلاش و کوشش"
+  },
+  {
+    "id": 5,
+    "textDari": "صبر تلخ استبیسیسبیسبdsddasdسبس ولیکن بر شیرین دارد",
+    "textPashto": "صبر تریخ دی، خو مېوه یې خوږه ده",
+    "translationEn": "Patience is bitter, but its fruit is sweet.",
+    "meaning": "تحمل مشکلات در ابتدا سخت است، اما نتیجه خوبی خواهد داشت",
+    "category": "صبر و تحمل "
+  },
+  {
+    "id": 6,
+    "textDari": "نابرده رنج گنج میسرsdasdsa نمی‌شود",
+    "textPashto": "بې له زحمت خزانه نه ترلاسه کېږي",
+    "translationEn": "No pain, no gain.",
+    "meaning": "بدون تلاش نمی‌توان به موفقیت رسید",
+    "category": "تلاش و کوشش"
+  },
+  {
+    "textDari": "نابرده رنج گنج میسر نمی‌شود",
+    "textPashto": "بې له زحمت خزانه نه ترلاسه کېږي",
+    "translationEn": "No pain, no gain.",
+    "meaning": "بدون تلاش نمی‌توان به موفقیت رسید",
+    "category": "تلاش و کوشش",
+    "id": 7
+  }
+]
